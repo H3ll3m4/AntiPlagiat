@@ -27,12 +27,18 @@
     <ClInclude Include="AntiPlagiat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ImageData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="AntiPlagiat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageData.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
